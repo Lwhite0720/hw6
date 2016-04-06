@@ -1,0 +1,114 @@
+body{
+  margin: 0px auto;
+}
+#body{
+  width:1280px;
+  height:1340px;
+  margin: 0px 0px 0px 0px;
+}
+
+header{
+  background-color: rgb(242, 242, 242);
+}
+
+#logo{
+  width: 204px;
+  height: 204px;
+  margin-left: 112px;
+}
+
+#nav{
+  width: 816px;
+  height:28px;
+  margin: 88px 46px 88px 102px;
+  float: right;
+}
+
+.nav_title{
+  font-size: 28px;
+  margin-right: 94px;
+  font-family: 微軟正黑體,Microsoft JhengHei, 新細明體, PMingLiU;
+  color: rgb(59,56,56);
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.line{
+  height: 2px;
+  background-color: rgb(209,157,9);
+}
+
+#big_pic{
+  background-color: rgb(127,127,127);
+}
+
+#hot_song{
+  width: 1188px;
+  height: 498px;
+  margin: 40px 46px 40px 46px;
+}
+
+#artical{
+    background-color: rgb(127,127,127);
+    width: 1280px;
+    height:787px;
+}
+
+#artical_up{
+  width: 1188px;
+  height: 306px;
+  background-color: rgb(127,127,127);
+  padding: 50px 46px 0px 46px;
+}
+
+#artical_down{
+  width: 1188px;
+  height: 306px;
+  background-color: rgb(127,127,127);
+  padding: 75px 46px 50px 46px;
+}
+
+.left{
+  width: 576px;
+  height: 306px;
+  float: left;
+}
+
+.right{
+  width: 576px;
+  height: 306px;
+  float: right;
+}
+
+.album_pic{
+  width: 306px;
+  height: 306px;
+  float: left;
+}
+
+.album_inf{
+  width: 270px;
+  height: 306px;
+  float: right;
+  margin: 0px;
+  background-color: rgb(242,242,242);
+  font-family: 微軟正黑體,Microsoft JhengHei, 新細明體, PMingLiU;
+}
+
+#footer{
+  margin-top: 2px;
+  width: 1280px;
+  height: 78px;
+  background-color: rgb(13,13,13);
+}
+
+#icon{
+  float: right;
+  margin-right: 46px;
+}
+
+.Link{
+  width: 66px;
+  height: 66px;
+  margin-left: 36px;
+}
